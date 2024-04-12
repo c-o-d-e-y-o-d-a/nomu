@@ -24,6 +24,7 @@ h1 {
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   animation: slideAnimation 20s linear infinite; /* Adjust duration and timing function as needed */
+  margin: 10dvh 1dvh 10dvh 1dvh;
 }
 
 .slider img {
